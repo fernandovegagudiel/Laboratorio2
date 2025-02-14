@@ -1,4 +1,4 @@
-###laboratori 2
+###laboratori-2
 ## ¿Para qué crees que se usan los operadores lógicos en programación?
 **R/** Los operadores lógicos se utilizan para realizar operaciones complejas, como la verificación de contraseñas o la evaluación de si una persona es mayor o menor de edad, entre otras.
 
